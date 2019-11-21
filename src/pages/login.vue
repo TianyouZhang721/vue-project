@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<van-nav-bar title="登录" left-arrow/>
+		<van-nav-bar title="登录123" left-arrow/>
 		<div class="main">
 			<van-cell-group>
 				<van-field
